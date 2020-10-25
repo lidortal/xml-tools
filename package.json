@@ -26,7 +26,7 @@
     "legal:copy": "lerna exec \"shx cp -r ../../.reuse .reuse && shx cp -r ../../LICENSES LICENSES\""
   },
   "devDependencies": {
-    "@types/chai": "4.2.11",
+    "@types/chai": "4.2.14",
     "@types/mocha": "7.0.2",
     "@types/node": "10.17.15",
     "coveralls": "3.1.0",
